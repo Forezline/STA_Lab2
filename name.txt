@@ -1,0 +1,7 @@
+ID | Name
+01   iPhone X
+02   iPhone XR
+03   iPhone XS
+04   iPhone 11
+05   iPhone 11 Pro
+06   iPhone 11 Pro Max
