@@ -5,3 +5,4 @@ ID | Name
 04   iPhone 11
 05   iPhone 11 Pro
 06   iPhone 11 Pro Max
+07   iPhone 12 
